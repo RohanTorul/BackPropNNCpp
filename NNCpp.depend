@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1638850327 source:c:\users\admin\documents\c_projects\nncpp\main.cpp
+	"NN.h"
+	"TrainData.h"
+
+1638809031 source:c:\users\admin\documents\c_projects\nncpp\nn.cpp
+	"NN.h"
+
+1638808656 c:\users\admin\documents\c_projects\nncpp\nn.h
+	<stdio.h>
+	<vector>
+	<cstdlib>
+	<cmath>
+	<cassert>
+	<iostream>
+
+1638848488 source:c:\users\admin\documents\c_projects\nncpp\traindata.cpp
+	"TrainData.h"
+
+1638849628 c:\users\admin\documents\c_projects\nncpp\traindata.h
+	<vector>
+	<string>
+	<iostream>
+	<fstream>
+	<sstream>
+
